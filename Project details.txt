@@ -1,0 +1,11 @@
+India Census 2011 dataset
+(A part of big data Analysis)
+Real-time project
+
+1.This data is a about total population, demography, literacy, districts, states workers, Religion, education, Age.
+
+2. The data used here is of 2011 India census of each district.
+
+3.This data is available as CSV file. downloaded from kaggle.
+
+We will Analyze this data using pandas dataframe
